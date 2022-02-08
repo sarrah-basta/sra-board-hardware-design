@@ -94,11 +94,11 @@ In general, every development board has the following basic features:
 
 ## Major Changes for 2020
 
-| Feature  |  SRA Board 2019  | SRA Board 2020|
-|:----:|:-------:| :-----: |
+| Feature  |  SRA Board 2019  | SRA Board 2020| SRA Board 2022 |
+|:----:|:-------:| :-----: | :-----: |
 |[12V to 5V](#7805-5v-linear-regulator-to-lm2596-buck-convertor)  | LM7805 Linear Regulator | LM2596 Buck Convertor |
 |[5V to 3.3V](#ld33-33v-to-ams1117)| LD33 | AMS1117 |
-|[Reverse Voltage Protection](#reverse-voltage-protection-diodes-to-p-mosfet) | Diodes | P-MOSFET |
+|[Reverse Voltage Protection](#reverse-voltage-protection-diodes-to-p-mosfet) | Diodes | P-MOSFET | SMD Diodes
 |[Motor Driver](#l298n-to-tb6612fng)| L298N| TB6612FNG|
 |[No. of Motor Channels](#motor-driver-modes)|2|4|
 |[No. of Switches](#moving-back-to-the-vintage-bar-graph-leds-and-more-switches)|2|4|
