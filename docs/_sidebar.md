@@ -1,0 +1,6 @@
+- [__Home__](/)
+- [A Quick Glance](README.md)
+- [Images of the Board](images.md)
+- Sensors in the Board
+  - [LSA](https://raw.githubusercontent.com/SRA-VJTI/sra-board-hardware-design/master/sensors_2022/lsa/README.md)
+  - [MPU](mpu.md)
